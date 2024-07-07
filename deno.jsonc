@@ -1,0 +1,7 @@
+{
+    "tasks": {
+      "dev": "scala-cli --power package -f -w .",
+      "run": "deno run -A --node-modules-dir npm:vite"
+    }
+  }
+  
